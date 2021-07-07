@@ -32,7 +32,7 @@ export default function About() {
             className="object-cover object-center rounded"
             alt="hero"
             //src="./coding.svg"
-            src="./mike.svg"
+            src="./Mike.svg"
           />
         </div>
       </div>
