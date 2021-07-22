@@ -20,7 +20,7 @@ export default function Navbar() {
           <a href="#testimonials" className="mr-5 hover:text-white">
             Testimonials
           </a>
-          <a href="#linkedin" className="mr-5 hover:text-white">
+          <a href="https://www.linkedin.com/in/mikeeanthony/" className="mr-5 hover:text-white" target="_blank">
             LinkedIn
           </a>
         </nav>

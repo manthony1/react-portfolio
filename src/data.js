@@ -1,4 +1,6 @@
-export const projects = [];
+export const projects = [
+  
+];
 
 
 /*export const projects = [
@@ -71,6 +73,7 @@ export const testimonials = [
 export const skills = [
   "JavaScript",
   "React",
-  "Next.js",
+  "Hugo",
   "Node",
+  "Netlify and JAMstack",
 ];
