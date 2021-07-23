@@ -39,7 +39,7 @@ export default function Contact() {
             style={{ filter: "opacity(0.7)" }}
             src="https://www.google.com/maps/embed/v1/place?q=2901+S+Capital+of+Texas+Hwy,+Austin,+TX+78746&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"
           />
-          <div className="bg-gray-900 relative flex flex-wrap py-6 rounded shadow-md">
+          <div className="relative flex flex-grow py-6 rounded shadow-md bg-gray-900">
             <div className="lg:w-1/2 px-6">
               <h2 className="title-font font-semibold text-white tracking-widest text-xs">
                 CITY
@@ -66,7 +66,7 @@ export default function Contact() {
           className="lg:w-1/3 md:w-1/2 flex flex-col md:ml-auto w-full md:py-8 mt-8 md:mt-0">
           <input type="hidden" name="form-name" value="contact" />
           <h2 className="text-white sm:text-4xl text-3xl mb-1 font-medium title-font">
-            Hire Me to Consult
+            Let's Connect
           </h2>
           <p className="leading-relaxed mb-5">
             Want to talk about a project?

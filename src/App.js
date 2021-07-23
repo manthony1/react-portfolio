@@ -13,8 +13,8 @@ export default function App() {
       <Navbar />
       <About />
       <Projects />
-      <Certifications />
       <Skills />
+      <Certifications />
       <Testimonials />
       <Contact />
     </main>
