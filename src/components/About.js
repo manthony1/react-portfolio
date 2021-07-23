@@ -10,17 +10,12 @@ export default function About() {
             <br className="hidden lg:inline-block" />Full Stack Digital Marketer. <br /> Marketing Operations and Data Analyst.<br />Code Proficient.
 
           </h1>
-          <p className="mb-8 leading-relaxed">
+          <p className="mb-8 leading-relaxed text-green-600 text-lg">
           Head of Marketing | Global B2B Full Stack Marketer | B2B Demand Generation
           </p>
-          <p className="mb-8 leading-relaxed">
-          Live now; make now always the most precious time. Now will never come again. 
-          Genius doesn't work on an assembly line basis. 
-          Did Einstein, Kazanga or Sitar of Vulcan produce new and revolutionary theories on a regular schedule? 
-          You can't simply say, 'Today I will be brilliant.' Compassion: that's the one things no machine ever had. 
-          Maybe it's the one thing that keeps men ahead of them. 
-          Curious, how often you humans manage to obtain that which you do not want. 
-          It's hard to believe that something which is neither seen nor felt can do so much harm.
+          <p className="mb-8 leading-relaxed italic font-light text-2xl">
+          Seize the time... Live now! Make now always the most precious time.<br />Now will never come again.<br />
+          <span className="text-base">--Jean Luc Picard</span> 
           </p>
           <div className="flex justify-center">
             <a

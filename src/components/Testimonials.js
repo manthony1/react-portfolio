@@ -13,20 +13,19 @@ export default function Testimonials() {
         <div className="flex flex-wrap m-4">
           {testimonials.map((testimonial) => (
             <div className="p-4 md:w-1/2 w-full">
-              <div className="h-full bg-gray-800 bg-opacity-40 p-8 rounded">
-                <ThumbUpIcon className="block w-8 text-gray-500 mb-4" />
-                <p className="leading-relaxed mb-6">{testimonial.quote}</p>
-                <div className="inline-flex items-center">
+              <div className="h-full bg-purple-800 bg-opacity-40 p-8 rounded">
+              <p className="leading-relaxed mb-6 text-left">{testimonial.quote}</p>
+                <div className="inline-flex">
                   <img
                     alt="testimonial"
                     src={testimonial.image}
-                    className="w-12 rounded-full flex-shrink-0 object-cover object-center"
+                    className="w-14 rounded-full flex-shrink-0 object-cover object-center"
                   />
                   <span className="flex-grow flex flex-col pl-4">
-                    <span className="title-font font-medium text-white">
+                    <span className="title-font font-medium text-white text-left">
                       {testimonial.name}
                     </span>
-                    <span className="text-gray-500 text-sm uppercase">
+                    <span className="text-gray-500 text-sm uppercase text-left">
                       {testimonial.company}
                     </span>
                   </span>
