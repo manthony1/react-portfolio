@@ -71,9 +71,37 @@ export const testimonials = [
 ];
 
 export const skills = [
+  "Google Tag Manager",
+  "Google Analytics",
+  "Google Ads",
+  "Python",
+  "pandas",
   "JavaScript",
   "React",
   "Hugo",
   "Node",
   "Netlify and JAMstack",
+];
+
+export const certifications = [
+  {
+    certname: "Google Ads Search",
+    image: "./google.png",
+    issued: 2020,
+  },
+  {
+    certname: "AWS Cloud Practitioner",
+    image: "./aws.jpg",
+    issued: 2019,
+  },
+  {
+    certname: "Comptia Security+",
+    image: "./comptia.png",
+    issued: 2015,
+  },
+  {
+    certname: "Comptia Network+",
+    image: "./comptia.png",
+    issued: 2005
+  }
 ];
