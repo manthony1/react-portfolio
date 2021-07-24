@@ -59,7 +59,7 @@ export const testimonials = [
       "Mike is a top-notch digital marketing professional who I managed and worked with over the last few years. During that time Mike was instrumental in our efforts to build a productive digital marketing lead generation program that dramatically impacted our sales. Mike was also our go-to expert for building, integrating and analyzing our marketing reporting. Mike's attention to detail and the ability to grasp and integrate new and different MarTech have been a huge asset to our team. I'm confident that Mike can handle most any digital marketing challenge presented.",
     image: "./gl.jpg",
     name: "Greg Latson",
-    company: "Saba Software/Cornerstone on Demand",
+    company: "Saba/Cornerstone on Demand",
   },
   {
     quote:
