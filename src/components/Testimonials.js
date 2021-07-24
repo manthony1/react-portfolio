@@ -13,7 +13,7 @@ export default function Testimonials() {
         <div className="flex flex-wrap m-4">
           {testimonials.map((testimonial) => (
             <div className="p-4 md:w-1/2 w-full">
-              <div className="h-full bg-purple-800 bg-opacity-40 p-8 rounded">
+              <div className="h-full bg-green-500 bg-opacity-40 p-8 rounded">
               <p className="leading-relaxed mb-6 text-left">{testimonial.quote}</p>
                 <div className="inline-flex">
                   <img
@@ -25,7 +25,7 @@ export default function Testimonials() {
                     <span className="title-font font-medium text-white text-left">
                       {testimonial.name}
                     </span>
-                    <span className="text-gray-500 text-sm uppercase text-left">
+                    <span className="text-gray-400 text-sm uppercase text-left">
                       {testimonial.company}
                     </span>
                   </span>
