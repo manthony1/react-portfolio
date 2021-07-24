@@ -52,21 +52,21 @@ export const testimonials = [
       "I really enjoyed working with Mike at Saba Software. During his time, he showed me that his strength was leading technical digital marketing projects that needed to be rolled out to global teams. Mike is a 'go-getter' and a great team mate.",
     image: "./pdr.jpg",
     name: "Peter de Rosa",
-    company: "Saba/Cornerstone on Demand",
+    company: "Cornerstone on Demand",
   },
   {
     quote:
       "Mike is a top-notch digital marketing professional who I managed and worked with over the last few years. During that time Mike was instrumental in our efforts to build a productive digital marketing lead generation program that dramatically impacted our sales. Mike was also our go-to expert for building, integrating and analyzing our marketing reporting. Mike's attention to detail and the ability to grasp and integrate new and different MarTech have been a huge asset to our team. I'm confident that Mike can handle most any digital marketing challenge presented.",
     image: "./gl.jpg",
     name: "Greg Latson",
-    company: "Saba/Cornerstone on Demand",
+    company: "Saba Software",
   },
   {
     quote:
       "Mike is a rock star! He is really focused on aligning sale objectives with Marketing. Has a passion for ABM and a wiz at powerpoint! Mike really understands what needs to be done to achieve goals and will focus on results. I really enjoy working with him.",
     image: "./lf.jpg",
     name: "Laura Fuller",
-    company: "Lumesse, Saba Software",
+    company: "Lumesse",
   },
 ];
 
@@ -102,6 +102,6 @@ export const certifications = [
   {
     certname: "Comptia Network+",
     image: "./comptia.png",
-    issued: 2005
+    issued: 2005,
   }
 ];

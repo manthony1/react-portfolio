@@ -15,11 +15,11 @@ export default function Testimonials() {
             <div className="p-4 md:w-1/2 w-full">
               <div className="h-full bg-green-500 bg-opacity-40 p-8 rounded">
               <p className="leading-relaxed mb-6 text-left">{testimonial.quote}</p>
-                <div className="inline-flex">
+                <div className="flex">
                   <img
                     alt="testimonial"
                     src={testimonial.image}
-                    className="w-14 rounded-full flex-shrink-0 object-cover object-center"
+                    className="w-12 rounded-full flex-shrink-0 object-cover object-center"
                   />
                   <span className="flex-grow flex flex-col pl-4">
                     <span className="title-font font-medium text-white text-left">

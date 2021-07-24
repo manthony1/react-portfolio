@@ -15,7 +15,7 @@ export default function About() {
           Head of Marketing | Global B2B Full Stack Marketer | B2B Demand Generation
           </p>
           <p className="mb-8 leading-7 italic font-light text-2xl" lin>
-          Seize the time... Live now! Make now always the most precious time.<br />Now will never come again.<br />
+          Seize the time... Live now! Make now always the most precious time. Now will never come again.<br />
           <span className="text-base">-Jean Luc Picard</span>
           </p>
           <div className="flex justify-center">
