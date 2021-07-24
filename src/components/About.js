@@ -10,12 +10,13 @@ export default function About() {
             <br className="hidden lg:inline-block" />Full Stack Digital Marketer. <br /> Marketing Operations and Data Analyst.<br />Code Proficient.
 
           </h1>
-          <p className="mb-8 leading-relaxed text-green-600 text-lg">
+          <p className="mb-8 leading-relaxed text-green-600 text-lg
+          ">
           Head of Marketing | Global B2B Full Stack Marketer | B2B Demand Generation
           </p>
-          <p className="mb-8 leading-relaxed italic font-light text-2xl">
+          <p className="mb-8 leading-7 italic font-light text-2xl" lin>
           Seize the time... Live now! Make now always the most precious time.<br />Now will never come again.<br />
-          <span className="text-base">--Jean Luc Picard</span> 
+          <span className="text-base">-Jean Luc Picard</span>
           </p>
           <div className="flex justify-center">
             <a

@@ -1,5 +1,5 @@
 import React from "react";
-import { AcademicCapIcon, ThumbUpIcon, UsersIcon } from "@heroicons/react/solid";  
+import { AcademicCapIcon } from "@heroicons/react/solid";  
 import { certifications } from "../data";
 
 export default function Certifications() {

@@ -1,5 +1,5 @@
 import React from "react";
-import { ThumbUpIcon, UsersIcon } from "@heroicons/react/solid";
+import { UsersIcon } from "@heroicons/react/solid";
 import { testimonials } from "../data";
 
 export default function Testimonials() {

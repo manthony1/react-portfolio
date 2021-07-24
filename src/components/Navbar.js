@@ -1,4 +1,4 @@
-import { ArrowRightIcon, CursorClickIcon, KeyIcon } from "@heroicons/react/solid";
+import { CursorClickIcon } from "@heroicons/react/solid";
 import React from "react";
 
 export default function Navbar() {
@@ -23,7 +23,7 @@ export default function Navbar() {
           <a href="#testimonials" className="mr-5 hover:text-white">
             Testimonials
           </a>
-          <a href="https://www.linkedin.com/in/mikeeanthony/" className="mr-5 hover:text-white" target="_blank">
+          <a href="https://www.linkedin.com/in/mikeeanthony/" className="mr-5 hover:text-white" target="_blank" rel="noopener noreferrer">
             LinkedIn
           </a>
         </nav>
