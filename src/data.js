@@ -78,9 +78,9 @@ export const skills = [
   "pandas",
   "JavaScript",
   "React",
-  "Hugo",
   "Node",
   "Netlify and JAMstack",
+  "Hubspot",
 ];
 
 export const certifications = [
