@@ -7,12 +7,12 @@ export default function About() {
         <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
             Hi, I'm Mike.<br />
-            <br className="hidden lg:inline-block" />Full Stack Digital Marketer. <br /> Marketing Operations and Data Analyst.<br />Code Proficient.
+            <br className="hidden lg:inline-block" />Technical PM, Process Improvement (Workflow) Analyst.<br /> Marketing Operations and Data Analyst.<br />Code Proficient.
 
           </h1>
-          <p className="mb-8 leading-relaxed text-green-600 text-lg
-          ">
-          Head of Marketing | Global B2B Full Stack Marketer | B2B Demand Generation
+          <p className="mb-8 leading-relaxed text-green-600 text-lg">
+          ServiceNow Certified System Administrator (CSA)<br />
+          ServiceNow Certified Implementation Specialist - IT Service Management (CIS - ITSM) - <i>In progress</i>
           </p>
           <p className="mb-8 leading-7 italic font-light text-2xl" lin>
           Seize the time... Live now! Make now always the most precious time. Now will never come again.<br />
